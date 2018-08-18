@@ -81,7 +81,7 @@ function googleMapsApiError() {
 }
 
 /**
- * animate bounce animation for a pin
+ * @description animate bounce animation for a pin
  * @param {Pin} pin object containing place data a marker on Google Maps
  */
 function animateBounce(pin) {
